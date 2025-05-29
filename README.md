@@ -10,8 +10,8 @@ APIドキュメント バージョン "1.0.0.250319" に対応しています。
 ## 本リポジトリの成果物について
 
 本リポジトリの成果物は[OpenAPI generator](https://github.com/OpenAPITools/openapi-generator)（バージョン: 7.13.0）により生成されました。
-OpenAPI generatorの開発チーム、Go generatorのメンテナおよび心より敬意を表します。
-また、仕様書の提供元である日本郵便株式会社に対して、深く御礼申し上げます。
+OpenAPI generatorの開発チームおよびGo generatorのメンテナに心より敬意を表します。
+また、仕様書を提供頂きました日本郵便株式会社の関係各位に対し、深く御礼申し上げます。
 
 ## 著者
 
